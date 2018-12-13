@@ -19,3 +19,4 @@
  ## 참고자료
 
  * SIMPLE ALARM2 : https://www.youtube.com/watch?v=j9MP-wy36Mg
+ * IFTTT 연동 : https://www.hackster.io/alexis-santiago-allende/ble-clock-with-arduino-and-app-inventor-a724a3
